@@ -1,7 +1,7 @@
 import React from 'react'
 import Heading from '../Heading/Heading'
 import FruitsCat from '../../assets/fruits-and-veggies.png'
-import DairyCat from '../../assets/Dairy-and-eggs.png'
+import DairyCat from '../../assets/dairy-and-eggs.png'
 import SeaFoodCat from '../../assets/meat-and-seafood.png'
 import { Link } from 'react-router-dom'
 const Category = () => {
