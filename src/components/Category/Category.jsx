@@ -1,8 +1,8 @@
 import React from 'react'
 import Heading from '../Heading/Heading'
-import FruitsCat from '../../assets/fruits-and-veggies.png'
-import DairyCat from '../../assets/dairy-and-eggs.png'
-import SeaFoodCat from '../../assets/meat-and-seafood.png'
+import FruitsCat from '../../assets/fruits-and-veggies.webp'
+import DairyCat from '../../assets/dairy-and-eggs.webp'
+import SeaFoodCat from '../../assets/meat-and-seafood.webp'
 import { Link } from 'react-router-dom'
 const Category = () => {
 

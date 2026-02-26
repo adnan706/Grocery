@@ -1,6 +1,6 @@
 import React from "react";
 import CategoryPage from "../CategoryPage/CategoryPage";
-import BgDairy from '../../assets/dairy-banner.jpg'
+import BgDairy from '../../assets/dairy-banner.webp'
 
 const Dairy = () => {
   return (

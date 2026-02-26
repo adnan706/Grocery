@@ -5,7 +5,7 @@ import { HiShoppingBag } from "react-icons/hi";
 import { IoSearch } from "react-icons/io5";
 import { TbMenu2, TbMenu3 } from "react-icons/tb";
 import { Link } from "react-router-dom";
-import Footer from '../Footer/Footer'
+
 
 const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);

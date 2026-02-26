@@ -1,7 +1,7 @@
 import React from "react";
 import Heading from "../Heading/Heading";
 import { FaHeart, FaLeaf, FaSeedling, FaShieldAlt } from "react-icons/fa";
-import Basket from "../../assets/basket-full-vegetables.png";
+import Basket from "../../assets/basket-full-vegetables.webp";
 
 const Values = () => {
 
